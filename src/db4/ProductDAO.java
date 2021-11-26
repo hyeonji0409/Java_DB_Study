@@ -1,9 +1,6 @@
 package db4;
 
-import db3.StudentDTO;
-
 import java.sql.*;
-import java.util.Date;
 
 public class ProductDAO {
     Connection con = null;

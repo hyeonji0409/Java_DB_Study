@@ -1,7 +1,5 @@
 package db4;
 
-import db3.StudentDAO;
-
 import java.util.Scanner;
 
 public class ProductEx {

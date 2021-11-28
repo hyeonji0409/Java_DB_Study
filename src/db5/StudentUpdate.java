@@ -1,5 +1,8 @@
 package db5;
 
+import db3.StudentDAO;
+import db3.StudentDTO;
+
 import java.util.Scanner;
 
 public class StudentUpdate {
